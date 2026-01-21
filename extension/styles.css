@@ -1,0 +1,14 @@
+.clickbait-buster-btn {
+    background-color: #ff4757;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 2px 6px;
+    margin-left: 8px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: transform 0.1s;
+}
+.clickbait-buster-btn:hover {
+    transform: scale(1.1);
+}
